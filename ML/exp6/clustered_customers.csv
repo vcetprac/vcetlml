@@ -1,0 +1,11 @@
+Channel,Region,Fresh,Milk,Grocery,Frozen,Detergents_Paper,Delicassen,Cluster
+Hotel,Lisbon,5000,500,1500,2000,300,400,1
+Retailer,Lisbon,4000,600,1400,2500,200,300,2
+Hotel,Oporto,4500,700,1600,2200,400,350,0
+Retailer,Oporto,5200,650,1700,2100,350,300,0
+Hotel,Other,4800,620,1550,2050,250,390,1
+Retailer,Other,4700,640,1650,2150,300,380,1
+Hotel,Lisbon,5100,630,1500,2000,320,370,1
+Retailer,Oporto,5300,610,1620,2300,310,380,1
+Hotel,Other,4950,580,1580,2200,290,360,1
+Retailer,Lisbon,5050,620,1670,2100,300,350,1

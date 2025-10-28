@@ -1,0 +1,11 @@
+Age,Income,SpendingScore,Region,Channel,Target
+25,40000,45,Lisbon,Hotel,1
+34,52000,65,Oporto,Retailer,0
+40,61000,12,Other,Hotel,1
+22,35000,70,Lisbon,Retailer,0
+29,45000,40,Oporto,Hotel,1
+41,62000,20,Other,Retailer,0
+36,58000,25,Lisbon,Hotel,1
+28,49000,50,Oporto,Retailer,0
+33,53000,60,Other,Hotel,1
+30,47000,55,Lisbon,Retailer,0
